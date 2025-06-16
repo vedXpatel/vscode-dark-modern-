@@ -1,6 +1,6 @@
 {
-  "name": "github-light-contast",
-  "displayName": "vedXpatel dark",
+  "name": "vedxpatel-dark-modern",
+  "displayName": "DARK MODERN by vedXpatel",
   "description": "a theme inspired by the vscode dark modern theme",
   "version": "1.0.0-beta",
   "engines": {
@@ -9,7 +9,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "vedXpatel dark",
+        "label": "DARK MODERN by vedXpatel",
         "uiTheme": "vs", 
         "path": "./theme.json"
       }
